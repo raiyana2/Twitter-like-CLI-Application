@@ -1,16 +1,13 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/ZQQhHp7h)
-# Assignment3
+# Twitter-like application using Python and SQLite
 
-# CMPUT 291 Mini Project 1 -Fall 2024
-Group member names and ccids (3-4 members)  
-
-* Faiaz Bin Nesar, faiazbin
-* Utsha Samanta, usamanta
-* Sydney Smythe, ssmythe
-* Raiyana Rahman, raiyana2 
+This project was developed in collaboration with:
+- Utsha Samanta
+- Faiaz Bin Nesar
+- Raiyana Rahman
+- Sydney Smythe
 
 
-# Group work break-down strategy
+## Group work break-down strategy
 Work done by each member (along with a time estimate)
 
 Sydney (time estimate: 8 hours): 
@@ -48,7 +45,7 @@ Faiaz (time estimate: 8 hours):
 - Created the pagination code used throughout the project
 - Created the system to follow users
 
-# Method of coordination
+## Method of coordination
 To coordinate our work, we used a combination of GitHub, Instagram, and Google Docs. We used GitHub as a place to keep our code, which we kept in separate branches while being worked on. The code was then merged into the main branch after our part was completed. We used Instagram to communicate throughout the project, notifying other members of bugs found in the code, checking for progress updates, and discussing testing methods. Our Google Doc was used to outline the work each of us needed to do.
 
 
@@ -56,16 +53,10 @@ To coordinate our work, we used a combination of GitHub, Instagram, and Google D
 1. Clone the repository
 2. Navigate to the project directory
 3. Call the Python file in the linux command line as follows: python3 system.py &lt;PATH-OF-DATABASE&gt;
+ 
 
 
-# Names of anyone you have collaborated with (as much as it is allowed within the course policy) or a line saying that you did not collaborate with anyone else.  
-This project was developed in collaboration with:
-- Utsha Samanta
-- Faiaz Bin Nesar
-- Raiyana Rahman
-- Sydney Smythe
-
-# More detail of any AI tool used.
+## More detail of any AI tool used.
 ### Claude 3.5 Sonnet (Anthropic)
 Used primarily for debugging assistance and code review:
 
